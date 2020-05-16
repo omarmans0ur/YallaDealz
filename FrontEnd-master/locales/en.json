@@ -1,0 +1,18 @@
+{
+  "home": {
+    "topSelling": "Top Selling",
+    "bestReview": "Best Rated",
+    "premium": "Premium",
+    "trending": "Trending",
+    "total": "Recent Deals"
+  },
+  "deal": {
+    "prices": "prices",
+    "endsIn": "ends in {msg} day",
+    "dealType": "deal type : {msg}",
+    "buy": "yalla dealz"
+  },
+  "card": {
+    "btn": "show deal"
+  }
+}

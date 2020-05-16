@@ -1,0 +1,37 @@
+{
+  "name": "YallaDealz",
+  "version": "1.0.0",
+  "description": "My gnarly Nuxt.js project",
+  "author": "Kareem",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^1.0.2",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.10.1",
+    "@nuxtjs/device": "^1.2.7",
+    "@nuxtjs/google-tag-manager": "^2.3.2",
+    "@nuxtjs/sitemap": "^2.2.1",
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0",
+    "nuxt-jsonld": "^1.4.9",
+    "nuxt-seo": "^1.2.2",
+    "vue-browser-geolocation": "^1.8.0",
+    "vue-i18n": "^8.17.3",
+    "vue-social-sharing": "^2.4.7",
+    "vue-youtube-embed": "^2.2.2",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}
